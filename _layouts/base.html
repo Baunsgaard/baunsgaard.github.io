@@ -1,15 +1,19 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: " en" }}">
 {% include head.html %}
+
 <body>
     <div id="maincontainer">
+        <div id="profilepicture">
+            <img src="assets/images/SebastianBaunsgaard-Low.jpg" alt="Sebastian Baunsgaard">
+        </div>
         {% include header.html %}
         <div id="app">{{ content }}</div>
         {% include footer.html %}
         <div class="background"></div>
     </div>
     {% include background.html %}
-    <div id ="popup"></div>
-    <div id ="scripts"></div>
+    <div id="scripts"></div>
 </body>
+
 </html>
