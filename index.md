@@ -45,6 +45,7 @@ ADMS@VLDB 2020; 1-10
 ## Education
 
 [ITU Copenhagen](https://itu.dk/)
+
 - Master of Science, Software Development, Specialization: Advanced Computing - 2017-2019
   - Thesis: [Scalable Speech Recognition](https://github.com/sebwrede/Scalable-Speech-Recognition/blob/master/Thesis.pdf)
 - Bachelor of Science, Software Development, 2014-2017
