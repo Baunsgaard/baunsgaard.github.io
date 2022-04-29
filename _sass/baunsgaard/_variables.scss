@@ -1,0 +1,17 @@
+
+
+
+$baseFont: Helvetica, sans-serif;
+$baseTextColour: white;
+$windowColour:  rgba(50,50,60,0.5);
+$backgroundzIndex: -10;
+$backgroundColour: rgba(10,10,10,1);
+
+$postPad: 20px;
+$postColour:   rgba(17, 17, 39, 0.7);
+
+@mixin media($queryString){
+    @media #{$queryString} {
+      @content;
+    }
+}

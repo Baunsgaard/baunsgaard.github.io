@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+{% include head.html %}
+<body>
+    <div id="maincontainer">
+        {% include header.html %}
+        <div id="app">{{ content }}</div>
+        {% include footer.html %}
+        <div class="background"></div>
+    </div>
+    {% include background.html %}
+    <div id ="popup"></div>
+    <div id ="scripts"></div>
+</body>
+</html>

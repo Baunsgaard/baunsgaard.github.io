@@ -1,0 +1,22 @@
+
+
+#background{
+    z-index: $backgroundzIndex;
+    width: 100%;
+    min-height: 100%;
+    background-color: $backgroundColour;
+    top: 0;
+    left: 0;
+    position:fixed;
+}
+
+#background img, #background video{
+    z-index: $backgroundzIndex;
+    min-height: 100%;
+    min-width: 100%;
+    height: auto;
+    top: 0;
+    left: 50%;
+    position: fixed;
+    transform: translateX(-50%);
+}

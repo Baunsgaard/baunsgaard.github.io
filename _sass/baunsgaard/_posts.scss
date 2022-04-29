@@ -1,0 +1,48 @@
+.grid{
+    display: grid;
+    padding: $postPad;
+    justify-content: center;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    padding-bottom: 50px;
+    .entry{
+        position: relative;
+        padding: 15px;
+        border-radius: 15px;
+        background: $postColour;
+        .title{
+            letter-spacing: -1px;
+            margin: 30px 0;
+            font-size: 1.5em;
+            text-align: center;
+        }
+        video, img{
+            display: block;
+            margin: 0 auto;
+            max-width: 100%;
+        }
+        .date{
+            position: absolute;
+            bottom: 10px;
+            left: 10px;
+            font-size: 0.7em;
+        }
+        .description{
+            padding: 20px;
+            font-size: 0.8em;
+        }
+    }
+}
+
+@media screen and (max-device-width: 700px){
+    .grid{
+        grid-template-columns: repeat(2, 1fr);    
+    }
+}
+
+@media screen and (max-device-width: 450px){
+    .grid{
+        grid-template-columns: repeat(1, 1fr);    
+    }
+}

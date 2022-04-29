@@ -1,0 +1,7 @@
+<div>
+    <hr>
+    {% if page.type != 'home' %}
+    <button class="closeButton " onclick=" app.goTo.page('/pages/home.html');"></button>
+    {% endif %}
+    {{content}}
+</div>

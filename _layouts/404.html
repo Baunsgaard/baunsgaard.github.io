@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+{% include head.html %}
+<body>
+    <div class="centerBlock block">
+        <button class="closeButton " onclick="window.location.href='/';"></button>
+        {{content}}
+    </div>
+    {% include background.html %}
+</body>
+</html>
