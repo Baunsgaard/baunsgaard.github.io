@@ -6,7 +6,8 @@ layout: base
 
 ## mail: seb\[AD\]bgaard.dk
 
-Sebastian Baunsgaard is a Ph.D. student at the [Institute of Interactive Systems and Data Science (ISDS)](https://www.tugraz.at/institutes/isds/home/) at
+Sebastian Baunsgaard is a Ph.D. student at [TU Berlin](https://www.tu.berlin/).
+Sebastian previously studied at the [Institute of Interactive Systems and Data Science (ISDS)](https://www.tugraz.at/institutes/isds/home/) at
 [Graz University of Technology](https://www.tugraz.at/home/), Austria.
 His primarily research focus is exploiting data structures in linear algebra programs.
 Sebastian is a frequent contributor to open source code,
@@ -38,7 +39,8 @@ ADMS@VLDB 2020; 1-10
 
 ## Work Experience
 
-- Ph. D. Teaching Assistant - [TU Graz](https://www.tugraz.at/home/). Jan 2020 - Present
+- Ph. D. Research Assistant - [TU Berlin](https://www.tu.berlin/). August 2022 - Present
+- Ph. D. Teaching Assistant - [TU Graz](https://www.tugraz.at/home/). Jan 2020 - August 2022
   - AMLS - Architecture of ML Systems ([2021](https://mboehm7.github.io/teaching/ss21_amls),
   [2022](https://mboehm7.github.io/teaching/ss22_amls/))
   - DIA - Data Integration and Large-Scale Analysis ([2021](https://mboehm7.github.io/teaching/ws2122_dia))
