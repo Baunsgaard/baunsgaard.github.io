@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Baunsgaard Homepage
-email: seb@bgaard.com
+# email: seb@bgaard.com
 description: >- 
   Page for the Baunsgaard homepage
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -24,7 +24,7 @@ linkedin_username: sebastianbaunsgaard
 
 footer-links:
   dribbble:
-  email: seb@bgaard.dk
+  # email: seb@bgaard.dk
   facebook: sebastian.baunsgaard.5
   flickr:
   github: baunsgaard

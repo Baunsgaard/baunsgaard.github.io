@@ -4,6 +4,8 @@ layout: base
 
 # Sebastian Baunsgaard
 
+## mail: seb\[AD\]bgaard.dk
+
 Sebastian Baunsgaard is a Ph.D. student at the [Institute of Interactive Systems and Data Science (ISDS)](https://www.tugraz.at/institutes/isds/home/) at
 [Graz University of Technology](https://www.tugraz.at/home/), Austria.
 His primarily research focus is exploiting data structures in linear algebra programs.
