@@ -4,7 +4,7 @@ layout: base
 
 # Sebastian Baunsgaard
 
-## mail: seb\[AD\]bgaard.dk
+## mail: baunsgaard\[AD\]tu-berlin.de
 
 Sebastian Baunsgaard is a Ph.D. student at [TU Berlin](https://www.tu.berlin/).
 Sebastian previously studied at the [Institute of Interactive Systems and Data Science (ISDS)](https://www.tugraz.at/institutes/isds/home/) at
