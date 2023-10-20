@@ -23,11 +23,12 @@ Currently he is a member of [DAMS Lab](https://damslab.github.io/) headed and su
 
 ### 2023
 
-[Sebastian Baunsgaard](.), Matthias Boehm: AWARE: Workload-aware, Redundancy-exploiting Linear Algebra, PACMMOD 1, N1, 2023. 
+[Sebastian Baunsgaard](.), Matthias Boehm: [AWARE: Workload-aware, Redundancy-exploiting Linear Algebra](https://dl.acm.org/doi/abs/10.1145/3588682),
+PACMMOD 1, N1, 2023.
 
 ### 2022
 
-[Sebastian Baunsgaard](.), Matthias Boehm, Kevin Innerebner, Mito Kehayov, Florian Lackner, Olga Ovcharenko, Arnab Phani, Tobias Rieger, David Weissteiner and Sebastian Benjamin Wrede: [Federated Data Preparation, Learning, and Debugging in Apache SystemDS (Demo)](https://dl.acm.org/doi/10.1145/3511808.3557162), 
+[Sebastian Baunsgaard](.), Matthias Boehm, Kevin Innerebner, Mito Kehayov, Florian Lackner, Olga Ovcharenko, Arnab Phani, Tobias Rieger, David Weissteiner and Sebastian Benjamin Wrede: [Federated Data Preparation, Learning, and Debugging in Apache SystemDS (Demo)](https://dl.acm.org/doi/10.1145/3511808.3557162),
 CIKM 2022.
 
 ### 2021
