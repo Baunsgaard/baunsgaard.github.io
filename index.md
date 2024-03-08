@@ -16,7 +16,7 @@ and full-stack web development in [Zen Data Aps](https://zendata.dk/).
 ## Contact
 
 - mail: baunsgaard[]tu-berlin.de 
-- office: TEL-0813, Ernst-Reuter-Platz 7, 1058 Berlin
+- office: TEL-0813, Ernst-Reuter-Platz 7, 10587 Berlin
 
 ---
 
