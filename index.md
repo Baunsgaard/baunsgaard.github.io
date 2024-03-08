@@ -5,12 +5,11 @@ layout: base
 # Sebastian Baunsgaard
 
 
-Sebastian Baunsgaard is a Ph.D. student at [TU Berlin](https://www.tu.berlin/).
+Sebastian Baunsgaard is a Ph.D. student at [TU Berlin](https://www.tu.berlin/) supervised by [Matthias Boehm](https://mboehm7.github.io/).
 His research focus is exploiting data structures in programs via workload-aware compression. Sebastian is a frequent contributor to open source code and is a PMC member in [Apache SystemDS](https://systemds.apache.org/)
 with contributions ranging from high-level compilation techniques to low-level tight-loop optimization of kernels. Sebastian received his bachelor's and master's from [ITU Copenhagen](https://itu.dk/) specializing in advanced computing and algorithms. His dissertation is on the subject of [speech recognition](https://dasya.itu.dk/for-students/projects/archive/speechrecognition/).
 Before starting his Ph.D., Sebastian worked with automatic test setup and installation of high-end cameras in [Phase One](https://www.phaseone.com/),
 and full-stack web development in [Zen Data Aps](https://zendata.dk/).
-Now, he is a Ph.D. student in [DAMS Lab](https://damslab.github.io/) headed and supervised by [Matthias Boehm](https://mboehm7.github.io/).
 
 ---
 
