@@ -4,7 +4,6 @@ layout: base
 
 # Sebastian Baunsgaard
 
-
 Sebastian Baunsgaard is a PhD student at [TU Berlin](https://www.tu.berlin/) supervised by [Matthias Boehm](https://mboehm7.github.io/).
 His research focus is exploiting data structures in programs via workload-aware compression. Sebastian is a frequent contributor to open source code and is a PMC member in [Apache SystemDS](https://systemds.apache.org/)
 with contributions ranging from high-level compilation techniques to low-level tight-loop optimization of kernels. Sebastian received his bachelor's and master's from [ITU Copenhagen](https://itu.dk/) specializing in advanced computing and algorithms. His dissertation is on the subject of [speech recognition](https://dasya.itu.dk/for-students/projects/archive/speechrecognition/).
@@ -15,7 +14,7 @@ and full-stack web development in [Zen Data Aps](https://zendata.dk/).
 
 ## Contact
 
-- mail: baunsgaard[]tu-berlin.de 
+- mail: baunsgaard[]tu-berlin.de
 - office: TEL-0813, Ernst-Reuter-Platz 7, 10587 Berlin
 
 ---
@@ -52,7 +51,6 @@ ADMS@VLDB 2020
 
 ## Work Experience
 
-
 - Ph. D. Research Assistant - [TU Berlin](https://www.tu.berlin/). August 2022 - Present
   - Joint Seminar on Machine Learning and Data Management ([2023](https://wiki.ml.tu-berlin.de/wiki/Main/WS23_MLDMS), [2023/24](https://isis.tu-berlin.de/enrol/index.php?id=34987), [2024](.))
   - Large-scale Data Engineering Seminar/Project - Co-supervisor ([2023](https://pdamme.github.io/teaching/2023_summer/lde/lde_summer2023.html), [2023/24](https://pdamme.github.io/teaching/2023-24_winter/lde/lde_winter2023-24.html))
@@ -74,7 +72,7 @@ ADMS@VLDB 2020
 ## Service
 
 - ShadowPC EuroSys24
-- VLDB Journal 2023 reviewer.
+- VLDB Journal 2023 reviewer
 
 ---
 
