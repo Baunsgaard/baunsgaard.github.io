@@ -1,17 +1,17 @@
 
 
 #background{
-    z-index: $backgroundzIndex;
+    z-index: $backgroundZIndex;
     width: 100%;
     min-height: 100%;
-    background-color: $backgroundColour;
+    background-color: $backgroundColor;
     top: 0;
     left: 0;
     position:fixed;
 }
 
 #background img, #background video{
-    z-index: $backgroundzIndex;
+    z-index: $backgroundZIndex;
     min-height: 100%;
     min-width: 100%;
     height: auto;

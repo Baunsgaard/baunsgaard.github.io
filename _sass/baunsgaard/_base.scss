@@ -2,7 +2,7 @@
   padding: 30px;
   border-radius: 30px;
   margin: 10px auto;
-  width: 900px;
+  width: $baseWidth;
   min-height: 800px;
   position: relative;
   margin: 50px auto 50px auto;
@@ -17,7 +17,7 @@
     margin-left: auto;
     margin-right: auto;
   }
-  p{
+  ul,p{
     max-width: 90%;
     display:block;
     margin-left: auto;
@@ -36,7 +36,7 @@
   .background{
     z-index: -3;
     border-radius: 30px;
-    background-color: $windowColour;
+    background-color: $windowColor;
     position:absolute;
     left: 0;
     top: 0;
@@ -73,8 +73,19 @@ h3{
 
 body{
   font: 100% $baseFont;
-  color: $baseTextColour;
+  color: $baseTextColor;
   font-size: 20px;
+}
+
+
+
+hr {
+  display: block;
+  height: 3px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 2em 0;
+  padding: 0;
 }
 
 /*

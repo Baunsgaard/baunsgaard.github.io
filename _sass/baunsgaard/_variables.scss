@@ -2,13 +2,16 @@
 
 
 $baseFont: Helvetica, sans-serif;
-$baseTextColour: white;
-$windowColour:  rgba(50,50,60,0.5);
-$backgroundzIndex: -10;
-$backgroundColour: rgba(10,10,10,1);
+$baseTextColor: black;
+$baseWidth: 1200px;
+$windowColor:  rgba(250,250,250,0.5);
+$backgroundZIndex: -10;
+$backgroundColor: rgba(255,255,255,1);
 
 $postPad: 20px;
-$postColour:   rgba(17, 17, 39, 0.7);
+$postColor:   rgba(17, 17, 39, 0.7);
+
+$linkColor:#0000EE;
 
 @mixin media($queryString){
     @media #{$queryString} {

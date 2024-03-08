@@ -4,27 +4,29 @@ layout: base
 
 # Sebastian Baunsgaard
 
-## mail: baunsgaard\[AD\]tu-berlin.de
 
 Sebastian Baunsgaard is a Ph.D. student at [TU Berlin](https://www.tu.berlin/).
-Sebastian previously studied at the [Institute of Interactive Systems and Data Science (ISDS)](https://www.tugraz.at/institutes/isds/home/) at
-[Graz University of Technology](https://www.tugraz.at/home/), Austria.
-His primarily research focus is exploiting data structures in linear algebra programs.
-Sebastian is a frequent contributor to open source code,
-and is a PMC member in [Apache SystemDS](https://systemds.apache.org/)
-with contributions ranging from high level compilation techniques to low level tight loop optimization of kernels.
-Sebastian received his bachelor and masters from [ITU Copenhagen](https://itu.dk/) specializing in advanced computing
-with a dissertation in the subject of [speech recognition](https://dasya.itu.dk/for-students/projects/archive/speechrecognition/).
-Before starting his Ph.D. Sebastian worked with automatic test setup and installation of high-end cameras in [Phase One](https://www.phaseone.com/),
-and full stack web development in [Zen Data Aps](https://zendata.dk/).
-Currently he is a member of [DAMS Lab](https://damslab.github.io/) headed and supervised by [Matthias Boehm](https://mboehm7.github.io/).
+His research focus is exploiting data structures in programs via workload-aware compression. Sebastian is a frequent contributor to open source code and is a PMC member in [Apache SystemDS](https://systemds.apache.org/)
+with contributions ranging from high-level compilation techniques to low-level tight-loop optimization of kernels. Sebastian received his bachelor's and master's from [ITU Copenhagen](https://itu.dk/) specializing in advanced computing and algorithms. His dissertation is on the subject of [speech recognition](https://dasya.itu.dk/for-students/projects/archive/speechrecognition/).
+Before starting his Ph.D., Sebastian worked with automatic test setup and installation of high-end cameras in [Phase One](https://www.phaseone.com/),
+and full-stack web development in [Zen Data Aps](https://zendata.dk/).
+Now, he is a Ph.D. student in [DAMS Lab](https://damslab.github.io/) headed and supervised by [Matthias Boehm](https://mboehm7.github.io/).
+
+---
+
+## Contact
+
+- mail: baunsgaard[]tu-berlin.de 
+- office: TEL-0813, Ernst-Reuter-Platz 7, 1058 Berlin
+
+---
 
 ## Publications
 
 ### 2023
 
 [Sebastian Baunsgaard](.), Matthias Boehm: [AWARE: Workload-aware, Redundancy-exploiting Linear Algebra](https://dl.acm.org/doi/abs/10.1145/3588682),
-PACMMOD 1, N1, 2023.
+PACMMOD 1, N1, 2023. [Poster](./assets/pdf/AWARE_Poster.pdf)
 
 ### 2022
 
@@ -35,7 +37,7 @@ CIKM 2022.
 
 [Sebastian Baunsgaard](.), Matthias Boehm, Ankit Chaudhary, Behrouz Derakhshan, Stefan Geißelsöder, Philipp M. Grulich, Michael Hildebrand, Kevin Innerebner, Volker Markl, Claus Neubauer, Sarah Osterburg, Olga Ovcharenko, Sergey Redyuk, Tobias Rieger, Alireza Rezaei Mahdiraji, Sebastian Benjamin Wrede, Steffen Zeuch:
 [ExDRa: Exploratory Data Science on Federated Raw Data](https://dl.acm.org/doi/10.1145/3448016.3457549).
-SIGMOD Conference 2021: 2450-2463
+SIGMOD Conference 2021
 
 ### 2020
 
@@ -45,13 +47,19 @@ CIDR 2020
 
 [Sebastian Baunsgaard](.), Sebastian Bejamin Wrede, Pinar Tözün:
 [Training for Speech Recognition on Coprocessors](http://www.adms-conf.org/2020-camera-ready/ADMS20_01.pdf).
-ADMS@VLDB 2020; 1-10
+ADMS@VLDB 2020
+
+---
 
 ## Work Experience
 
+
 - Ph. D. Research Assistant - [TU Berlin](https://www.tu.berlin/). August 2022 - Present
+  - Joint Seminar on Machine Learning and Data Management ([2023](https://wiki.ml.tu-berlin.de/wiki/Main/WS23_MLDMS), [2023/24](https://isis.tu-berlin.de/enrol/index.php?id=34987), [2024](.))
+  - Large-scale Data Engineering Seminar/Project - Co-supervisor ([2023](https://pdamme.github.io/teaching/2023_summer/lde/lde_summer2023.html), [2023/24](https://pdamme.github.io/teaching/2023-24_winter/lde/lde_winter2023-24.html))
+  - AMLS - Architecture of Machine Learning Systems ([2023](https://mboehm7.github.io/teaching/ss23_amls/index.htm), [2024](https://mboehm7.github.io/teaching/ss24_amls/index.htm))
 - Ph. D. Teaching Assistant - [TU Graz](https://www.tugraz.at/home/). Jan 2020 - August 2022
-  - AMLS - Architecture of ML Systems ([2021](https://mboehm7.github.io/teaching/ss21_amls),
+  - AMLS - Architecture of Machine Learning Systems ([2021](https://mboehm7.github.io/teaching/ss21_amls),
   [2022](https://mboehm7.github.io/teaching/ss22_amls/))
   - DIA - Data Integration and Large-Scale Analysis ([2021](https://mboehm7.github.io/teaching/ws2122_dia))
 - Research Assistant - [ITU Copenhagen](https://itu.dk/). Jul 2019 - Jan 2020
@@ -62,9 +70,18 @@ ADMS@VLDB 2020; 1-10
 - Test Engineer - [Phase One](https://www.phaseone.com/). Jun 2018 - Jan 2019.
 - Full Stack Developer - [Zen Data Aps](https://zendata.dk/). Oct 2016 - Aug 2017.
 
+---
+
+## Service
+
+- ShadowPC EuroSys24
+- VLDB Journal 2023 reviewer.
+
+---
+
 ## Education
 
-- Master of Science, Software Development, Specialization: Advanced Computing - 2017-2019
+- Master of Science, Software Development, Specialization: Advanced Computing - Algorithms - 2017-2019
   - Thesis: [Scalable Speech Recognition](https://github.com/sebwrede/Scalable-Speech-Recognition/blob/master/Thesis.pdf)
 - Bachelor of Science, Software Development, 2014-2017
   - Thesis: Evaluation of Multi-pbjective Genetic Algorithms
