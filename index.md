@@ -24,7 +24,7 @@ and full-stack web development in [Zen Data Aps](https://zendata.dk/).
 ### 2023
 
 [Sebastian Baunsgaard](.), Matthias Boehm: [AWARE: Workload-aware, Redundancy-exploiting Linear Algebra](https://dl.acm.org/doi/abs/10.1145/3588682),
-PACMMOD 1, N1, 2023. ([Paper](.assets/pdf/AWARE.pdf), [Slides](.assets/pdf/AWARE_slides.pdf),  [Poster](./assets/pdf/AWARE_poster.pdf), [Repro](https://github.com/damslab/reproducibility/tree/master/sigmod2023-AWARE-p5))
+PACMMOD 1, N1, 2023. ([Paper](./assets/pdf/AWARE.pdf), [Slides](./assets/pdf/AWARE_slides.pdf),  [Poster](./assets/pdf/AWARE_poster.pdf), [Repro](https://github.com/damslab/reproducibility/tree/master/sigmod2023-AWARE-p5))
 
 ### 2022
 
