@@ -24,18 +24,18 @@ and full-stack web development in [Zen Data Aps](https://zendata.dk/).
 ### 2023
 
 [Sebastian Baunsgaard](.), Matthias Boehm: [AWARE: Workload-aware, Redundancy-exploiting Linear Algebra](https://dl.acm.org/doi/abs/10.1145/3588682),
-PACMMOD 1, N1, 2023. [Poster](./assets/pdf/AWARE_Poster.pdf)
+PACMMOD 1, N1, 2023. ([Paper](.assets/pdf/AWARE.pdf), [Slides](.assets/pdf/AWARE_slides.pdf),  [Poster](./assets/pdf/AWARE_poster.pdf), [Repro](https://github.com/damslab/reproducibility/tree/master/sigmod2023-AWARE-p5))
 
 ### 2022
 
 [Sebastian Baunsgaard](.), Matthias Boehm, Kevin Innerebner, Mito Kehayov, Florian Lackner, Olga Ovcharenko, Arnab Phani, Tobias Rieger, David Weissteiner and Sebastian Benjamin Wrede: [Federated Data Preparation, Learning, and Debugging in Apache SystemDS (Demo)](https://dl.acm.org/doi/10.1145/3511808.3557162),
-CIKM 2022.
+CIKM 2022. ([Paper](.assets/pdf/FedDemo.pdf), [Poster](.assets/pdf/FedDemo_poster.pdf))
 
 ### 2021
 
 [Sebastian Baunsgaard](.), Matthias Boehm, Ankit Chaudhary, Behrouz Derakhshan, Stefan Geißelsöder, Philipp M. Grulich, Michael Hildebrand, Kevin Innerebner, Volker Markl, Claus Neubauer, Sarah Osterburg, Olga Ovcharenko, Sergey Redyuk, Tobias Rieger, Alireza Rezaei Mahdiraji, Sebastian Benjamin Wrede, Steffen Zeuch:
 [ExDRa: Exploratory Data Science on Federated Raw Data](https://dl.acm.org/doi/10.1145/3448016.3457549).
-SIGMOD Conference 2021
+SIGMOD Conference 2021 ([Paper](./assets/pdf/exdra.pdf), [Repro](https://github.com/damslab/reproducibility/tree/master/sigmod2021-exdra-p523))
 
 ### 2020
 
@@ -45,7 +45,7 @@ CIDR 2020
 
 [Sebastian Baunsgaard](.), Sebastian Bejamin Wrede, Pinar Tözün:
 [Training for Speech Recognition on Coprocessors](http://www.adms-conf.org/2020-camera-ready/ADMS20_01.pdf).
-ADMS@VLDB 2020
+ADMS@VLDB 2020 ([Paper](./assets/pdf/SystemDS.pdf))
 
 ---
 
