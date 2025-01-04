@@ -29,7 +29,7 @@ PACMMOD 1, N1, 2023. ([Paper](.assets/pdf/AWARE.pdf), [Slides](.assets/pdf/AWARE
 ### 2022
 
 [Sebastian Baunsgaard](.), Matthias Boehm, Kevin Innerebner, Mito Kehayov, Florian Lackner, Olga Ovcharenko, Arnab Phani, Tobias Rieger, David Weissteiner and Sebastian Benjamin Wrede: [Federated Data Preparation, Learning, and Debugging in Apache SystemDS (Demo)](https://dl.acm.org/doi/10.1145/3511808.3557162),
-CIKM 2022. ([Paper](.assets/pdf/FedDemo.pdf), [Poster](.assets/pdf/FedDemo_poster.pdf))
+CIKM 2022. ([Paper](./assets/pdf/FedDemo.pdf), [Poster](./assets/pdf/FedDemo_poster.pdf))
 
 ### 2021
 
@@ -39,13 +39,9 @@ SIGMOD Conference 2021 ([Paper](./assets/pdf/exdra.pdf), [Repro](https://github.
 
 ### 2020
 
-Matthias Boehm, Iulian Antonov, [Sebastian Baunsgaard](.), Mark Dokter, Robert Ginthör, Kevin Innerebner, Florijan Klezin, Stefanie N. Lindstaedt, Arnab Phani, Benjamin Rath, Berthold Reinwald, Shafaq Siddiqui, Sebastian Benjamin Wrede:
-[SystemDS: A Declarative Machine Learning System for the End-to-End Data Science Lifecycle](http://www.cidrdb.org/cidr2020/papers/p22-boehm-cidr20.pdf).
-CIDR 2020
+Matthias Boehm, Iulian Antonov, [Sebastian Baunsgaard](.), Mark Dokter, Robert Ginthör, Kevin Innerebner, Florijan Klezin, Stefanie N. Lindstaedt, Arnab Phani, Benjamin Rath, Berthold Reinwald, Shafaq Siddiqui, Sebastian Benjamin Wrede: [SystemDS: A Declarative Machine Learning System for the End-to-End Data Science Lifecycle](http://www.cidrdb.org/cidr2020/papers/p22-boehm-cidr20.pdf). CIDR 2020 ([Paper](./assets/pdf/SystemDS.pdf))
 
-[Sebastian Baunsgaard](.), Sebastian Bejamin Wrede, Pinar Tözün:
-[Training for Speech Recognition on Coprocessors](http://www.adms-conf.org/2020-camera-ready/ADMS20_01.pdf).
-ADMS@VLDB 2020 ([Paper](./assets/pdf/SystemDS.pdf))
+[Sebastian Baunsgaard](.), Sebastian Bejamin Wrede, Pinar Tözün: [Training for Speech Recognition on Coprocessors](http://www.adms-conf.org/2020-camera-ready/ADMS20_01.pdf). ADMS@VLDB 2020 
 
 ---
 
