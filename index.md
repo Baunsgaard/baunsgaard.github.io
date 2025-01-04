@@ -67,6 +67,7 @@ Matthias Boehm, Iulian Antonov, [Sebastian Baunsgaard](.), Mark Dokter, Robert G
 
 ## Service
 
+- SIGMOD 2024 reproducibility reviewer
 - ShadowPC EuroSys24
 - VLDB Journal 2023 reviewer
 
