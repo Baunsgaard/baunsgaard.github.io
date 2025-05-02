@@ -21,6 +21,10 @@ and full-stack web development in [Zen Data Aps](https://zendata.dk/).
 
 ## Publications
 
+### 2025
+
+Jonas Möller, Lukas Pirch, Felix Weissberg, [Sebastian Baunsgaard](.), Thorsten Eisenhofer, Konrad Rieck: [Adversarial Inputs for Linear Algebra Backends](.) ICML 2025.
+
 ### 2023
 
 [Sebastian Baunsgaard](.), Matthias Boehm: [AWARE: Workload-aware, Redundancy-exploiting Linear Algebra](https://dl.acm.org/doi/abs/10.1145/3588682),
@@ -48,9 +52,9 @@ Matthias Boehm, Iulian Antonov, [Sebastian Baunsgaard](.), Mark Dokter, Robert G
 ## Work Experience
 
 - Ph. D. Research Assistant - [TU Berlin](https://www.tu.berlin/). August 2022 - Present
-  - Joint Seminar on Machine Learning and Data Management ([2023](https://wiki.ml.tu-berlin.de/wiki/Main/WS23_MLDMS), [2023/24](https://isis.tu-berlin.de/enrol/index.php?id=34987), [2024](.))
-  - Large-scale Data Engineering Seminar/Project - Co-supervisor ([2023](https://pdamme.github.io/teaching/2023_summer/lde/lde_summer2023.html), [2023/24](https://pdamme.github.io/teaching/2023-24_winter/lde/lde_winter2023-24.html))
-  - AMLS - Architecture of Machine Learning Systems ([2023](https://mboehm7.github.io/teaching/ss23_amls/index.htm), [2024](https://mboehm7.github.io/teaching/ss24_amls/index.htm))
+  - Joint Seminar on Machine Learning and Data Management ([2023](https://wiki.ml.tu-berlin.de/wiki/Main/WS23_MLDMS), [2023/24](https://isis.tu-berlin.de/enrol/index.php?id=34987), 2024, 2024/25, 2025)
+  - Large-scale Data Engineering Seminar/Project - Co-supervisor ([2023](https://pdamme.github.io/teaching/2023_summer/lde/lde_summer2023.html), [2023/24](https://pdamme.github.io/teaching/2023-24_winter/lde/lde_winter2023-24.html), [2024](https://pdamme.github.io/teaching/2024_summer/lde/lde_summer2024.html), [2024/25](https://pdamme.github.io/teaching/2024-25_winter/lde/lde_winter2024-25.html), [2025](https://pdamme.github.io/teaching/2025_summer/lde/lde_summer2025.html))
+  - AMLS - Architecture of Machine Learning Systems ([2023](https://mboehm7.github.io/teaching/ss23_amls/index.htm), [2024](https://mboehm7.github.io/teaching/ss24_amls/index.htm), [2025](https://mboehm7.github.io/teaching/ss25_amls/index.htm))
 - Ph. D. Teaching Assistant - [TU Graz](https://www.tugraz.at/home/). Jan 2020 - August 2022
   - AMLS - Architecture of Machine Learning Systems ([2021](https://mboehm7.github.io/teaching/ss21_amls),
   [2022](https://mboehm7.github.io/teaching/ss22_amls/))
@@ -67,6 +71,7 @@ Matthias Boehm, Iulian Antonov, [Sebastian Baunsgaard](.), Mark Dokter, Robert G
 
 ## Service
 
+- [SIGMOD 2026 PC](https://2026.sigmod.org/org_sigmod_pc.shtml)
 - SIGMOD 2024 reproducibility reviewer
 - ShadowPC EuroSys24
 - VLDB Journal 2023 reviewer
