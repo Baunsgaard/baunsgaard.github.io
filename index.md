@@ -23,12 +23,14 @@ and full-stack web development in [Zen Data Aps](https://zendata.dk/).
 
 ### 2025
 
-Jonas Möller, Lukas Pirch, Felix Weissberg, [Sebastian Baunsgaard](.), Thorsten Eisenhofer, Konrad Rieck: [Adversarial Inputs for Linear Algebra Backends](.) ICML 2025.
+Jonas Möller, Lukas Pirch, Felix Weissberg, [Sebastian Baunsgaard](.), Thorsten Eisenhofer, Konrad Rieck: [Adversarial Inputs for Linear Algebra Backends](.), ICML 2025
+
+[Sebastian Baunsgaard](.), Matthias Boehm: [Morphing-based Compression for Data-centric ML Pipelines](https://arxiv.org/abs/2504.11067), arXiv 2025 ([Paper](https://arxiv.org/pdf/2504.11067))
 
 ### 2023
 
 [Sebastian Baunsgaard](.), Matthias Boehm: [AWARE: Workload-aware, Redundancy-exploiting Linear Algebra](https://dl.acm.org/doi/abs/10.1145/3588682),
-PACMMOD 1, N1, 2023. ([Paper](./assets/pdf/AWARE.pdf), [Slides](./assets/pdf/AWARE_slides.pdf),  [Poster](./assets/pdf/AWARE_poster.pdf), [Repro](https://github.com/damslab/reproducibility/tree/master/sigmod2023-AWARE-p5))
+PACMMOD 1, N1, 2023 ([Paper](./assets/pdf/AWARE.pdf), [Slides](./assets/pdf/AWARE_slides.pdf),  [Poster](./assets/pdf/AWARE_poster.pdf), [Repro](https://github.com/damslab/reproducibility/tree/master/sigmod2023-AWARE-p5))
 
 ### 2022
 
@@ -45,7 +47,7 @@ SIGMOD Conference 2021 ([Paper](./assets/pdf/exdra.pdf), [Repro](https://github.
 
 Matthias Boehm, Iulian Antonov, [Sebastian Baunsgaard](.), Mark Dokter, Robert Ginthör, Kevin Innerebner, Florijan Klezin, Stefanie N. Lindstaedt, Arnab Phani, Benjamin Rath, Berthold Reinwald, Shafaq Siddiqui, Sebastian Benjamin Wrede: [SystemDS: A Declarative Machine Learning System for the End-to-End Data Science Lifecycle](http://www.cidrdb.org/cidr2020/papers/p22-boehm-cidr20.pdf). CIDR 2020 ([Paper](./assets/pdf/SystemDS.pdf))
 
-[Sebastian Baunsgaard](.), Sebastian Bejamin Wrede, Pinar Tözün: [Training for Speech Recognition on Coprocessors](http://www.adms-conf.org/2020-camera-ready/ADMS20_01.pdf). ADMS@VLDB 2020 
+[Sebastian Baunsgaard](.), Sebastian Bejamin Wrede, Pinar Tözün: [Training for Speech Recognition on Coprocessors](http://www.adms-conf.org/2020-camera-ready/ADMS20_01.pdf). ADMS@VLDB 2020 ([Paper](https://www.adms-conf.org/2020-camera-ready/ADMS20_01.pdf))
 
 ---
 
