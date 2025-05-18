@@ -83,6 +83,6 @@ Matthias Boehm, Iulian Antonov, [Sebastian Baunsgaard](.), Mark Dokter, Robert G
 ## Education
 
 - Master of Science, Software Development, Specialization: Advanced Computing - Algorithms - 2017-2019
-  - Thesis: [Scalable Speech Recognition](https://github.com/sebwrede/Scalable-Speech-Recognition/blob/master/Thesis.pdf)
+  - Thesis: [Scalable Speech Recognition](./assets/pdf/MScThesis.pdf)
 - Bachelor of Science, Software Development, 2014-2017
   - Thesis: Evaluation of Multi-pbjective Genetic Algorithms
