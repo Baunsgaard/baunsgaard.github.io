@@ -10,8 +10,7 @@ Sebastian Baunsgaard is a postdoc at [TU Berlin](https://www.tu.berlin/) supervi
 
 ## Contact
 
-- mail: baunsgaard[]tu-berlin.de
-- office: TEL-0813, Ernst-Reuter-Platz 7, 10587 Berlin
+- seb[]bgaard.dk
 
 ---
 
