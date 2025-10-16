@@ -17,6 +17,11 @@ Sebastian Baunsgaard is a postdoc at [TU Berlin](https://www.tu.berlin/) supervi
 
 ## Publications
 
+### 2026
+
+[Sebastian Baunsgaard](.), Matthias Boehm: [Morphing-based Compression for Data-centric ML Pipelines](.), PVLDB 2026 ([Paper]())
+
+
 ### 2025
 
 Jonas Möller, Lukas Pirch, Felix Weissberg, [Sebastian Baunsgaard](.), Thorsten Eisenhofer, Konrad Rieck: [Adversarial Inputs for Linear Algebra Backends](./assets/pdf/Adversarial_Inputs.pdf), ICML 2025
