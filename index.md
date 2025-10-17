@@ -18,7 +18,7 @@ Sebastian Baunsgaard is a postdoc at [TU Berlin](https://www.tu.berlin/) supervi
 
 ### 2026
 
-[Sebastian Baunsgaard](.), Matthias Boehm: [Morphing-based Compression for Data-centric ML Pipelines](.), **PVLDB 2026**
+[Sebastian Baunsgaard](.), Matthias Boehm: [Morphing-based Compression for Data-centric ML Pipelines](.), **PVLDB 2026** ([Paper](./assets/pdf/BWARE.pdf))
 
 
 ### 2025
